@@ -1,0 +1,11 @@
+# Ignore model weights
+weights/*.pt
+weights/*.pth
+
+# Ignore generated datasets
+data/unet_data/
+data/raw/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
